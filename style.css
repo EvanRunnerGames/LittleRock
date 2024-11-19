@@ -148,7 +148,9 @@ footer {
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 120px;
+    height: 200px;
+    border-top: #7a59b6 solid 5px;
+    margin-top: 50px;
 }
 
 .footer-section {
@@ -160,6 +162,7 @@ footer {
     padding-left: 30px;
     padding-right: 30px;
     flex-direction: column;
+    height: ;
 }
 
 .footer-section-title {
